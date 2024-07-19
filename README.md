@@ -70,6 +70,14 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Devops-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-gray?logo=kubernetes">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-gray?logo=python">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?logo=c%23">
+<img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-black?logo=tensorflow">
+<img alt="Static Badge" src="https://img.shields.io/badge/Pytorch-black?logo=pytorch">
+<img alt="Static Badge" src="https://img.shields.io/badge/Langchain-black?logo=langchain">
+<img alt="Static Badge" src="https://img.shields.io/badge/ChromaDb-gray?logo=chromadb">
+<img alt="Static Badge" src="https://img.shields.io/badge/SQL-gray?logo=sql">
+<img alt="Static Badge" src="https://img.shields.io/badge/arangodb-gray?logo=arangodb">
+<img alt="Static Badge" src="https://img.shields.io/badge/Linux-gray?logo=linux">
 <br/>
 
 
