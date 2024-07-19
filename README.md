@@ -38,10 +38,10 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="https://gitlab.com/mendezsebas8" target="blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Gitlab-black?logo=gitlab">
  </a>
- <a href="https://alsiam.com" target="blank">
+ <a href="www.linkedin.com/in/juan-sebastían-méndez-rondón-99a485192" target="blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
  </a>
 </p>
