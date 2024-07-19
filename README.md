@@ -62,7 +62,14 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Neo-black?logo=neo4j">
+<img alt="Static Badge" src="https://img.shields.io/badge/Flutter-black?logo=flutter">
+<img alt="Static Badge" src="https://img.shields.io/badge/AndroidStudio-black?logo=android">
+<img alt="Static Badge" src="https://img.shields.io/badge/Docker-gray?logo=docker">
+<img alt="Static Badge" src="https://img.shields.io/badge/LLMs-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Devops-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-gray?logo=kubernetes">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-gray?logo=python">
 <br/>
 
 
