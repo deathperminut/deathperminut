@@ -7,7 +7,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="www.linkedin.com/in/juan-sebastían-méndez-rondón-99a485192">Juan Sebastián Méndez Rondón</a></b>
+                <b><span>Juan Sebastián Méndez Rondón</span></b>
         </samp>
 </h3>
 
